@@ -4,6 +4,7 @@
 
 
 - 📚 Atualmente curso a matéria de Desenvolvimento de Aplicativos Android no Qualifica-DF
+- 📚 Busco sempre novos conhecimentos sobre linguagem de programação
 - 👨‍🎓 Sou formado em Designer Gráfico pela escola VOXEL Escola de Criação Digital
 - 💡 Sou apaixonado em tecnologia e bugigangas eletrônicas. Procuro desafios sempre! 
 -->
