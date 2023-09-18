@@ -12,7 +12,7 @@
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IthRS69&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ithalo-Rodrigues&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=IthRS69&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
@@ -20,13 +20,13 @@
 
 <div align="center">
   <a href="https://github.com/IthRS69">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IthRS69&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IthRS69&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ithalo-Rodrigues&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ithalo-Rodrigues&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{IthRS69}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Ithalo-Rodrigues}/count.svg" /></p> 
 <br>
 </div>
 
