@@ -15,11 +15,11 @@
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ithalo-Rodrigues&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IthRS69&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ithalo-Rodrigues&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <div align="center">
-  <a href="https://github.com/IthRS69">
+  <a href="https://github.com/Ithalo-Rodrigues">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ithalo-Rodrigues&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ithalo-Rodrigues&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
